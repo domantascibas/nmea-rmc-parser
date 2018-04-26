@@ -1,0 +1,5 @@
+# for the fake gps transmitter comment the line below and uncomment 'src/main.cpp'
+tests/
+
+# for main message parser comment the line below and uncomment 'tests/'
+#src/main.cpp
